@@ -4,18 +4,18 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=neOliT for Realme Monet(RMX2020/RMX2027)
+kernel.string=InfixKernel-spaced for Realme Narzo50/8i(spaced)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=rmx2020
-device.name2=RMX2020
-device.name3=RMX2027
-device.name4=RMX2191
-device.name5=RMX3171
-device.name6=RMX2193
+device.name1=spaced
+device.name2=RMX3151
+device.name3=RMX3151L1
+device.name4=RMX3286
+device.name5=RMX3286L1
+device.name6=RE54B4L1
 supported.versions=
 supported.patchlevels=
 '; } # end properties
