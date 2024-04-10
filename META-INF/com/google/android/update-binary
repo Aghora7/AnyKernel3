@@ -423,8 +423,8 @@ if [ -f version ]; then
   ui_printfile version;
   ui_print " ";
 fi;
-ui_print "|------------InfixKernel-spaced------------|";
-ui_print "|---------------By HELLINFIX---------------|";
+ui_print "|------------Aghora7-sea------------|";
+ui_print "|---------------By Aghora7---------------|";
 ui_print "|------------------------------------------|";
 ui_print "|------------------------------------------|";
 ui_print "|   AnyKernel3 by osm0sis @ xda-developers |";
