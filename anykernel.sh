@@ -12,10 +12,10 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=sea
 device.name2=ocean
-device.name3=
-device.name4=
-device.name5=
-device.name6=
+device.name3=fleur
+device.name4=miel
+device.name5=fleur_p
+device.name6=miel_p
 supported.versions=
 supported.patchlevels=
 '; } # end properties
